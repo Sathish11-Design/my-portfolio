@@ -382,6 +382,7 @@ body {
 .experience-list i {
     color: #4fc3f7; /* Light blue Netflix-style */
     font-size: 1.2rem;
+    transform: translateY(2px);
 }
 .experience-header {
     display: flex;
