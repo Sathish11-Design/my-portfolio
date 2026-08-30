@@ -199,8 +199,8 @@ body {
     background: #2a2d31; /* dark mini card */
     padding: 20px;
     border-radius: 15px;
-    width: 120px;
-    height: 120px;
+    width: 125px;
+    height: 125px;
     display: flex;
     flex-direction: column;
     justify-content: center;
